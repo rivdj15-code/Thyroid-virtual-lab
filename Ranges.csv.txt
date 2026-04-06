@@ -1,0 +1,4 @@
+Test,Min,Max,Unit
+TSH,0.4,4.0,mIU/L
+T3,80,200,ng/dL
+T4,5.0,12.0,µg/dL
